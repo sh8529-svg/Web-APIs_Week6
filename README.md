@@ -18,8 +18,8 @@ The website then changes its **background color, sound, and animation** dependin
 
 ---
 
-## Screenshot
-<img width="848" height="671" alt="website_weather_mood_machine" src="https://github.com/user-attachments/assets/8fed5079-37d6-4582-b277-81be3df0ecc2" />
+## Quote
+"The internet is a gobal network that allows computers to communicate and share information."
 
 ---
 
@@ -45,7 +45,6 @@ fetch(`https://weather.visualcrossing.com/VisualCrossingWebServices/rest/service
 
 ---
 
-## Quote
-"The internet is a gobal network that allows computers to communicate and share information."
-
+## Screenshot
+<img width="848" height="671" alt="website_weather_mood_machine" src="https://github.com/user-attachments/assets/8fed5079-37d6-4582-b277-81be3df0ecc2" />
 
