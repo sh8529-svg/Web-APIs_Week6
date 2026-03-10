@@ -20,3 +20,32 @@ The website then changes its **background color, sound, and animation** dependin
 
 ## Screenshot
 <img width="848" height="671" alt="website_weather_mood_machine" src="https://github.com/user-attachments/assets/8fed5079-37d6-4582-b277-81be3df0ecc2" />
+
+---
+
+## Features
+- Research weather by entering a city name
+- Background color changes based on temperature
+- Rain animation appears when it is raining
+- Sound feedback based on temperature
+- Uses real-time date from Weather API
+
+---
+
+## Example Code
+fetch(`https://weather.visualcrossing.com/VisualCrossingWebServices/rest/services/timeline/${location}?key=${apiKey}`) .then(response => response.json()) .then(data => { const temp = data.currentConditions.temp; const condition = data.currentConditions.conditions; console.log(temp, condition); });
+
+---
+
+## Technologies Used 
+- HTML
+- CSS
+- JavaScript
+- Weather API
+
+---
+
+## Quote
+"The internet is a gobal network that allows computers to communicate and share information."
+
+
